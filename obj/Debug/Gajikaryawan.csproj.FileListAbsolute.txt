@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\bin\Debug\Gajikaryawan.exe.config
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\bin\Debug\Gajikaryawan.exe
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\bin\Debug\Gajikaryawan.pdb
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\obj\Debug\Gajikaryawan.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\obj\Debug\Gajikaryawan.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\obj\Debug\Gajikaryawan.exe
-C:\Users\Asus\source\repos\Gajikaryawan\Gajikaryawan\obj\Debug\Gajikaryawan.pdb
